@@ -29,8 +29,8 @@ Welcome! I’m passionate about leveraging data, machine learning, and artificia
 ## 📫 Contact
 
 - Email: rohitsingh8885882@gmail.com
-- LinkedIn: 
-- Portfolio: 
+- LinkedIn: https://www.linkedin.com/in/rohit-singh-data/
+- Portfolio: https://portfolio-57k2onoif-rohitsingh8885882-9742s-projects.vercel.app/
 
 ---
 
